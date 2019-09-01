@@ -1,0 +1,5 @@
+[package]
+name = "quine"
+version = "0.1.0"
+authors = ["Andrew Halle <ahalle@berkeley.edu>"]
+edition = "2018"
